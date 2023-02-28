@@ -15,12 +15,12 @@ const VideoCard = (props) => {
     return (
         <div className='video-card'>
             <div className="media">
-                <img src="/images/thumbnail.webp" alt="" width="100"/>
+                <img src="./images/thumbnail.webp" alt="" width="100"/>
             </div>
             <div className="grid-media">
                 <span className="grid-media_left">
                     <span className="media-logo">
-                        <img src="/images/media_logo.jpeg" alt="" />
+                        <img src="./images/media_logo.jpeg" alt="" />
                     </span>
                 </span>
                 <div className="grid-media_right">

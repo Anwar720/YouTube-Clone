@@ -35,7 +35,7 @@ const NabBar = props => {
                 <span onClick={()=>props.handleMenuClick()}>
                     <Icon name="menu" className="menu-btn"/>
                 </span>
-                <img src="/images/logo-light.png" className="logo" alt="logo" width="90" height="20"/>
+                <img src="./images/logo-light.png" className="logo" alt="logo" width="90" height="20"/>
             </div>
 
             <div className='row nav-row'>

@@ -363,7 +363,7 @@ html,body,.App{
 }
 .banner{
   width:100%;
-  background-image: url('/images/banner.jpeg');
+  background-image: url('../images/banner.jpeg');
   background-size: cover;
   background-position: 2.1rem 75%;
   padding:2rem;

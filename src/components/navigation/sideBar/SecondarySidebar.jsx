@@ -10,7 +10,7 @@ return (
                         <p>Home</p>
                 </li>
                 <li className='grid-column-3 hover-background'>
-                    <img src="/images/short2.png" width="17" />
+                    <img src="./images/short2.png" width="17" />
                     <p>Shorts</p>
                 </li>
                 <li className='grid-column-3 hover-background'>
